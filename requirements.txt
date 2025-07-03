@@ -4,4 +4,4 @@ sqlalchemy
 python-dotenv
 pydantic
 passlib[bcrypt]
-jose
+python-jose
