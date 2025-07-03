@@ -19,7 +19,7 @@ uvicorn main:app --reload
 -Push to GitHub
 -Deploy on Render
 ```bash
-Start Command: uvicorn main:app --host=0.0.0.0 --port=10000
+Start Command: uvicorn main:app --host=127.0.0.1 --port=7000
 ```
 
 Set `.env` variables in deployement panel.
